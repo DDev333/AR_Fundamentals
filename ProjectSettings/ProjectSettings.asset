@@ -863,10 +863,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 34a7ffe7-bb55-4211-ab89-2e4e695553c5
+  cloudProjectId: 9761b568-5890-4f3a-86c0-9cd6ec3de901
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: My project 2025-10-21_17-46-59
+  projectName: AR_Fundamentals
   organizationId: dangerousdev33
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
